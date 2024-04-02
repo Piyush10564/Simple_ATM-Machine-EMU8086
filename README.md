@@ -1,1 +1,1 @@
-content added to the loacl repository
+Content added to the local repository
